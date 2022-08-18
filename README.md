@@ -9,7 +9,7 @@ https://www.codewars.com/dashboard
 https://github.com/Andy87877/Codewars
 
 ## Zerojudge
-> 布長 也是coding宏宏
+> Andy8787(布長)
 
 https://zerojudge.tw/
 
