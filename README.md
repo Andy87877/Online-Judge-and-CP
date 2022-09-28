@@ -1,6 +1,4 @@
-# Competitive-Programming-Practise-Repositories 
-> 競程題目練習網站(repositories)
-
+# Online-Judge
 ## Codewars
 > Andy87877
 
