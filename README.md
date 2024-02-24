@@ -7,7 +7,7 @@
 | LeetCode  | Andy87877 | https://leetcode.com/Andy87877/ | https://github.com/Andy87877/LeetCode |
 | TOJ  | 布長 | https://toj.tfcis.org/oj/acct/7233/ | https://github.com/Andy87877/TOJ |
 | Kattis | Andy8787(布長) | https://open.kattis.com/users/andy8787 | https://github.com/Andy87877/Kattis |
-| APCS模擬測試 | Andy8787 | https://apcs-simulation.com/ | https://github.com/Andy87877/APCS-simulation |
+| APCS模擬測試 | Andy8787 | https://apcs-simulation.com/user-home?username=andy8787 | https://github.com/Andy87877/APCS-simulation |
 
 ## Competitive Programming(CP) 競程
 |  CP   | ID  | Profile  | Repo |
